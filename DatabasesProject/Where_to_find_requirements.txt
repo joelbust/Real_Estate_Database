@@ -1,0 +1,8 @@
+Where to find requirements:
+
+1) ER Diagram pdf
+2) real_estate_db_setup.sql
+3) script.sql
+4) Script_Query_results.pdf
+5) real_estate_project folder
+6) Website Interface Specifications pdf
